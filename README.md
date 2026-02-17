@@ -35,6 +35,6 @@ Repository of my projects in GenAI_ML space
 
   6.1  Autonomous Driving - Parts 1 & 2
   
-  6.2  Preserving Heritage Enhancing Tourism with AI - Parts 1 & 2
+  6.2  Preserving Heritage : Enhancing Tourism with AI - Parts 1 & 2
   
   6.3  Sales Forecasting
