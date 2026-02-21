@@ -38,3 +38,7 @@ Repository of my projects in GenAI_ML space
   6.2  Preserving Heritage : Enhancing Tourism with AI - Parts 1 & 2
   
   6.3  Sales Forecasting
+
+## 7. Advanced Deep Learning and Computer Vision 
+
+  7.1  Train and Deploy a CNN Model Using TensorFlow Serving
