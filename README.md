@@ -42,3 +42,5 @@ Repository of my projects in GenAI_ML space
 ## 7. Advanced Deep Learning and Computer Vision 
 
   7.1  Train and Deploy a CNN Model Using TensorFlow Serving
+
+  7.2  Performing Facial Recognition with Deep Learning
